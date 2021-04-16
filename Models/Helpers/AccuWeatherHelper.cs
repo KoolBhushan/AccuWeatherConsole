@@ -15,7 +15,7 @@ namespace AccuWeatherConsole.Models.Helpers
 
         // Please grab your AccuWeather API key and paste the value of API_KEY variable
 
-        public const string API_KEY = "rffmaooAWI2np8G8GL6BeKUYnckWbcQp";
+        public const string API_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
 
 
         public const string CURRENT_CONDITIONS_ENDPOINT = "currentconditions/v1/{0}?apikey={1}&details=false";
