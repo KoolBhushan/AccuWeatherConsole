@@ -3,6 +3,8 @@
 AccuWeather console application is desktop client which fetches the weather condition data of a given city using AccuWeather's API.
 
 
+![](Images/ConsoleUI.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
